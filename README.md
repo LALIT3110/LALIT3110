@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: [Email](mailto:saraswatlalit3110@gmail.com) 
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1t_1Y7Ny55ixSzHFF89-yeZs_crikd6Uf/view?usp=drive_link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1HJgclabSJjETWDaT6wRsihlRVBT8_dXy/view?usp=drive_link)
 
 </br>
 </br>
