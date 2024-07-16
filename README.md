@@ -1,7 +1,7 @@
 ![logo](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 <h1 align="center">Hey <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" align="center" width="30"/> I am <b>Lalit Saraswat</b></h1>
-<h3 align="center">A passionate Front-End Developer from <img src="https://cdn-icons-png.flaticon.com/128/321/321238.png" align="center" height="20" width="20"/> <b>India</b> </h3>
+<h3 align="center">A passionate MERN Stack Developer from <img src="https://cdn-icons-png.flaticon.com/128/321/321238.png" align="center" height="20" width="20"/> <b>India</b> </h3>
 
 <img align="right" alt="coder" width="35%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/17312616/316333524-2ae4d51a-1aae-45b9-86ae-75d01eb6e446.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240330%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240330T142920Z&X-Amz-Expires=300&X-Amz-Signature=495bf212080644ae564812b083550ba24ab45f3a19d0bab466ca2eed5095bce3&X-Amz-SignedHeaders=host&actor_id=80763916&key_id=0&repo_id=302721467">
 
